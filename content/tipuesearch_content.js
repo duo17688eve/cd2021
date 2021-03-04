@@ -1,0 +1,1 @@
+var tipuesearch = {"pages": [{'title': 'About', 'text': '\n 倉儲: https://github.com/40823238/cd2021 \n two guys:40823238，40823218 \n', 'tags': '', 'url': 'About.html'}, {'title': 'video', 'text': '', 'tags': '', 'url': 'video.html'}]};
